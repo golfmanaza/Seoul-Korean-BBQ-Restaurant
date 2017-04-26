@@ -40,11 +40,10 @@ h1,h2,h3,h4,h5,h6 {
      <img src="all1.jpg" class="w3-round w3-image w3-hover-opacity" alt="อาหารเกาหลี" width="600" height="750">
     </div>
 
-    <div class="w3-col m6 w3-padding-large">
+    <div class="w3-col m6 w3-padding-large w3-card-4 ">
       <h1 class="w3-center w3-animate-left w3-card-4 w3-border w3-hover-red ">บุฟเฟ่ต์ปิ้งย่างอาหารเกาหลี</h1><hr>
       <h5 class="w3-center">อาหารเกาหลีเจ้าแรกในหาดใหญ่</h5>
       <p class="w3-large">ร้านปิ้งย่างเกาหลีร้านนี้เป็นร้านปิ้งย่างสไตส์เกาหลีแท้ๆ ค่ะ สนนราคาบุฟเฟ่ต์ที่ 299 บาท++ ราคานี้ไม่รวมเครื่องดื่มนะคะ มีโปรมา 4 จ่าย 3 ด้วย ราคานี้มีหมูและไก่มีเวลาในการทาน 1.30 ชม.อาหารจานเดี่ยวเกาหลีพวกพิซซ่าเกาหลี ซุปต่างๆ และเครื่องเคียงแบบเติมได้ไม่อั้น </P>
-      <span class="w3-tag w3-red">ต้องลอง!</span>
 	  </div>
   </div>
 
@@ -126,6 +125,6 @@ function showDivs(n) {
 </script>
 
 <!-- Footer -->
-<footer class="w3-center w3-light-grey w3-padding-32">
+<footer class="w3-center w3-light-grey w3-padding-32 w3-card-3 ">
   <p>ชมภาพรอาหารจากร้านต่าง<a href="https://www.instagram.com/explore/tags/eatstylegob/" title="W3.CSS" target="_blank" class="w3-hover-text-green">INSTAGRAM #EATSTYLEGOB</a></p>
 </footer>
