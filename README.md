@@ -12,10 +12,10 @@ h1,h2,h3,h4,h5,h6 {
 </style>
 <!-- Navbar (sit on top) -->
 <div class="w3-top ">
-  <div class="w3-bar w3-white w3-padding w3-card-2 w3-black" style="letter-spacing:3px;">
+  <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:3px;">
     <a href="#home" class="w3-bar-item w3-button w3-xlarge w3-border w3-card-4 w3-hover-red">10ร้านห้ามพลาดในหาดใหญ่</a>
   
-    <div class="w3-right w3-small-show">
+    <div class="w3-right">
       <a href="#about" class="w3-bar-item w3-button w3-card-4 w3-border w3-hover-orange">ร้าน</a>
       <a href="#menu" class="w3-bar-item w3-button w3-card-4 w3-border w3-hover-green">ข้อมูลร้าน</a>
 
@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6 {
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
   <img class="w3-image" src="HOMEBBQ.jpg"  alt="Seoul Korean BBQ Restaurant" width="1600" height="800">
   <div class="w3-display-middle w3-padding-large w3-black">
-    <h1 class="w3-xlage w3-animate-left w3-card-4">"Seoul Korean BBQ Restaurant" </h1>
+    <h1 class="w3-xlage w3-animate-left w3-card-4">"Seoul Korean BBQ" </h1>
   </div>
 </header>
 
