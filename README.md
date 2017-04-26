@@ -1,4 +1,3 @@
-# Seoul-Korean-BBQ-Restaurant
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -6,22 +5,19 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <style>
 body {font-family: "Times New Roman", Georgia, Serif;}
-
 h1,h2,h3,h4,h5,h6 {
     font-family: "Playfair Display";
     letter-spacing: 5px;
 }
 </style>
-<body>
-
 <!-- Navbar (sit on top) -->
-<div class="w3-top">
+<div class="w3-top ">
   <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:4px;">
     <a href="#home" class="w3-bar-item w3-button w3-xlarge w3-border w3-card-4 w3-hover-red">10ร้านห้ามพลาดในหาดใหญ่</a>
   
-    <div class="w3-right  ">
-      <a href="#about" class="w3-bar-item w3-button w3-border w3-card-3 w3-hover-green">ร้าน</a>
-      <a href="#menu" class="w3-bar-item w3-button w3-border w3-card-3 w3-hover-orange">ข้อมูลร้าน</a>
+    <div class="w3-right w3-small-show">
+      <a href="#about" class="w3-bar-item w3-button w3-card-4 w3-border w3-hover-orange">ร้าน</a>
+      <a href="#menu" class="w3-bar-item w3-button w3-card-4 w3-border w3-hover-green">ข้อมูลร้าน</a>
 
     </div>
   </div>
@@ -31,7 +27,7 @@ h1,h2,h3,h4,h5,h6 {
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
   <img class="w3-image" src="HOMEBBQ.jpg"  alt="Seoul Korean BBQ Restaurant" width="1600" height="800">
   <div class="w3-display-middle w3-padding-large w3-black">
-    <h1 class="w3-lage w3-animate-left w3-card-4">"Seoul Korean BBQ"</h1>
+    <h1 class="w3-xlage w3-animate-left w3-card-4">"Seoul Korean BBQ Restaurant" </h1>
   </div>
 </header>
 
@@ -45,20 +41,19 @@ h1,h2,h3,h4,h5,h6 {
     </div>
 
     <div class="w3-col m6 w3-padding-large">
-      <h1 class="w3-center w3-animate-left w3-card-4 w3-border w3-hover-orange ">บุฟเฟ่ต์ปิ้งย่างอาหารเกาหลี</h1><hr>
+      <h1 class="w3-center w3-animate-left w3-card-4 w3-border w3-hover-red ">บุฟเฟ่ต์ปิ้งย่างอาหารเกาหลี</h1><hr>
       <h5 class="w3-center">อาหารเกาหลีเจ้าแรกในหาดใหญ่</h5>
-      <p class="w3-large">ร้านปิ้งย่างเกาหลีร้านนี้เป็นร้านปิ้งย่างสไตส์เกาหลีแท้ๆ ค่ะ สนนราคาบุฟเฟ่ต์ที่ 299 บาท++ ราคานี้ไม่รวมเครื่องดื่มนะคะ มีโปรมา 4 จ่าย 3 ด้วย ราคานี้มีหมูและไก่มีเวลาในการทาน 1.30 ชม. อาหารจานเดี่ยวเกาหลี พวกพิซซ่าเกาหลี ซุปต่างๆ และเครื่องเคียงแบบเติมได้ไม่อั้น </P>
+      <p class="w3-large">ร้านปิ้งย่างเกาหลีร้านนี้เป็นร้านปิ้งย่างสไตส์เกาหลีแท้ๆ ค่ะ สนนราคาบุฟเฟ่ต์ที่ 299 บาท++ ราคานี้ไม่รวมเครื่องดื่มนะคะ มีโปรมา 4 จ่าย 3 ด้วย ราคานี้มีหมูและไก่มีเวลาในการทาน 1.30 ชม.อาหารจานเดี่ยวเกาหลีพวกพิซซ่าเกาหลี ซุปต่างๆ และเครื่องเคียงแบบเติมได้ไม่อั้น </P>
       <span class="w3-tag w3-red">ต้องลอง!</span>
 	  </div>
   </div>
 
-  <hr>
-
   <!-- Menu Section -->
-  <div class="w3-row w3-padding-64 w3-card-4 " id="Infomation">
-    <div class="w3-col l6 w3-padding-large w3-text-green ">
-      <h1 class="w3-center w3-card-4 w3-border w3-hover-green">ข้อมูลร้าน</h1><br>
-      <h4> เวลาเปิดร้าน</h4>
+
+  <div class="w3-row w3-padding-64 w3-card-2" id="menu">
+    <div class="w3-col l6 w3-padding-large w3-text-green">
+      <h1 class="w3-center w3-card-4 w3-border w3-hover-red">ข้อมูลร้าน</h1><br>
+      <h4>เวลาเปิดร้าน</h4>
       <p class="w3-text-grey">เปิดบริการทุกวันตั้งแต่เวลา 11.00-22.00น.</p><br>
 
       <h4>ที่ตั้งและบรรยากาศ</h4>
@@ -84,7 +79,7 @@ h1,h2,h3,h4,h5,h6 {
   <hr>
 <!-- End page content -->
 
-<div class="w3-container w3-center w w3-bar w3-card-4 w3-border  w3-hover-red">
+<div class="w3-container w3-center  w3-bar w3-card-4 w3-border  w3-hover-red">
   <h2>รูปภาพเพิ่มเติม</h2>
   <p>ชมบรรยากาศและอาหาร</p>
 </div>
@@ -134,4 +129,3 @@ function showDivs(n) {
 <footer class="w3-center w3-light-grey w3-padding-32">
   <p>ชมภาพรอาหารจากร้านต่าง<a href="https://www.instagram.com/explore/tags/eatstylegob/" title="W3.CSS" target="_blank" class="w3-hover-text-green">INSTAGRAM #EATSTYLEGOB</a></p>
 </footer>
-
