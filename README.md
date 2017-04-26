@@ -35,7 +35,7 @@ h1,h2,h3,h4,h5,h6 {
 <div class="w3-content" style="max-width:1100px">
 
   <!-- About Section -->
-  <div class="w3-row w3-padding-64" id="about">
+  <div class="w3-row w3-padding-64 w3-card-1" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
      <img src="all1.jpg" class="w3-round w3-image w3-hover-opacity" alt="อาหารเกาหลี" width="600" height="750">
     </div>
@@ -70,7 +70,7 @@ h1,h2,h3,h4,h5,h6 {
       เหมาะสำหรับมาเป็นกลุ่ม<br> </p>
     </div>
 
-    <div class="w3-col l6 w3-padding-large">
+    <div class="w3-col l6 w3-padding-large w3-card-2">
       <img src="soulbbq12.jpg" class="w3-round w3-image w3-hover-opacity" alt="soulbbq" width="500" height="750">
     </div>
   </div>
