@@ -56,7 +56,7 @@ h1,h2,h3,h4,h5,h6 {
 
   <!-- Menu Section -->
   <div class="w3-row w3-padding-64 w3-card-4 " id="Infomation">
-    <div class="w3-col l6 w3-padding-large">
+    <div class="w3-col l6 w3-padding-large w3-text-green ">
       <h1 class="w3-center w3-card-4 w3-border w3-hover-green">ข้อมูลร้าน</h1><br>
       <h4> เวลาเปิดร้าน</h4>
       <p class="w3-text-grey">เปิดบริการทุกวันตั้งแต่เวลา 11.00-22.00น.</p><br>
