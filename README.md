@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6 {
   <div class="w3-bar w3-white w3-padding w3-card-2" style="letter-spacing:4px;">
     <a href="#home" class="w3-bar-item w3-button w3-xlarge">10ร้านห้ามพลาดในหาดใหญ่</a>
   
-    <div class="w3-right w3-hide-small">
+    <div class="w3-right ">
       <a href="#about" class="w3-bar-item w3-button">HOME</a>
       <a href="#menu" class="w3-bar-item w3-button">FOOD</a>
       <a href="#contact" class="w3-bar-item w3-button">Contact</a>
@@ -30,7 +30,7 @@ h1,h2,h3,h4,h5,h6 {
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
   <img class="w3-image" src="HOMEBBQ.jpg"  alt="Seoul Korean BBQ Restaurant" width="1600" height="800">
   <div class="w3-display-middle w3-padding-large w3-black">
-    <h1 class="w3-xxlage w3-animate-left w3-card-4">"Seoul Korean BBQ Restaurant" </h1>
+    <h1 class="w3-xlage w3-animate-left w3-card-4">"Seoul Korean BBQ Restaurant" </h1>
   </div>
 </header>
 
